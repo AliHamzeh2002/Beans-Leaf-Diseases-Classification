@@ -100,3 +100,8 @@ We tested each model with 3 different loss functions:
 ![model_comparison](./imgs/model_comparison.png)
 
 ![loss_function_comparison](./imgs/model_comparison.png)
+
+
+# Contributors
+* [Ali Hamzehpour](https://github.com/AliHamzeh2002)
+* [Mina Shirazi](https://github.com/meenashrz)
